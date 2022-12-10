@@ -15,3 +15,4 @@ You don't need a computer science background to participate - just a little prog
 * [Day 05: Supply Stacks ](day5/)
 * [Day 06: Tuning Trouble ](day6/)
 * [Day 07: No Space Left On Device ](day7/)
+* [Day 08: Treetop Tree House ](day8/)
