@@ -62,7 +62,7 @@ def q2(lines, traverse):
 
 
 if __name__ == "__main__":
-    file = FileHelper("day8//input.txt")
+    file = FileHelper("day08//input.txt")
     glob_lines = file.get_lines()
     trees = []
     trees_traverse = []
@@ -74,5 +74,5 @@ if __name__ == "__main__":
             arr += i[x]
         trees_traverse.append(arr)
 
-    print("Solution day1: " + str(q1(glob_lines, trees_traverse)))
-    print("Solution day2: " + str(q2(glob_lines, trees_traverse)))
+    print("Solution 1: " + str(q1(glob_lines, trees_traverse)))
+    print("Solution 2: " + str(q2(glob_lines, trees_traverse)))

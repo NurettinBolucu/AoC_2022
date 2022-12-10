@@ -61,14 +61,14 @@ def q2(root):
 
 
 if __name__ == "__main__":
-    file = FileHelper("day7//input.txt")
+    file = FileHelper("day07//input.txt")
     glob_lines = file.get_lines()
     root_gl = Directory('/')
     glob_total = 0
     s, _ = find_directories(file, root_gl, glob_lines, 1)
     q1(root_gl)
-    print("Solution day1: " + str(total))
+    print("Solution 1: " + str(total))
     minimum_size = s - 40000000
     mimumum_found = s
     q2(root_gl)
-    print("Solution day2: " + str(mimumum_found))
+    print("Solution 2: " + str(mimumum_found))

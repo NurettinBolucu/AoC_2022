@@ -80,8 +80,8 @@ def q2(lines):
 
 
 if __name__ == "__main__":
-    file = FileHelper("day9//input.txt")
+    file = FileHelper("day09//input.txt")
     glob_lines = file.get_seperated_lines(' ')
 
-    print("Solution day1: " + str(q1(glob_lines)))
-    print("Solution day2: " + str(q2(glob_lines)))
+    print("Solution 1: " + str(q1(glob_lines)))
+    print("Solution 2: " + str(q2(glob_lines)))

@@ -39,7 +39,7 @@ def q1(lines):
     return total
 
 if __name__ == "__main__":
-    file = FileHelper("day2//input.txt")
+    file = FileHelper("day02//input.txt")
     glob_lines = file.get_lines()
-    print("Solution day1 : {}".format(q1(glob_lines)))
-    print("Solution day2 : {}".format(q2(glob_lines)))
+    print("Solution 1 : {}".format(q1(glob_lines)))
+    print("Solution 2 : {}".format(q2(glob_lines)))

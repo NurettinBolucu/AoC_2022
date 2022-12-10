@@ -1,7 +1,7 @@
 from helper.helper import FileHelper
 
 if __name__ == "__main__":
-    file = FileHelper("day1//input_1.txt")
+    file = FileHelper("day01//input_1.txt")
     lines = file.get_lines()
     values = [0, 0, 0]
     most = 0

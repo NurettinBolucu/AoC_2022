@@ -8,13 +8,13 @@ Advent of Code 2022 solutions implemented in Python
 
 You don't need a computer science background to participate - just a little programming knowledge and some problem solving skills will get you pretty far. Nor do you need a fancy computer; every problem has a solution that completes in at most 15 seconds on ten-year-old hardware.
 
-* [Day 01: Calorie Counting ](day1/)
-* [Day 02: Rock Paper Scissors ](day2/)
-* [Day 03: Rucksack Reorganization ](day3/)
-* [Day 04: Camp Cleanup ](day4/)
-* [Day 05: Supply Stacks ](day5/)
-* [Day 06: Tuning Trouble ](day6/)
-* [Day 07: No Space Left On Device ](day7/)
-* [Day 08: Treetop Tree House ](day8/)
-* [Day 09: Rope Bridge](day9/)
+* [Day 01: Calorie Counting ](day01/)
+* [Day 02: Rock Paper Scissors ](day02/)
+* [Day 03: Rucksack Reorganization ](day03/)
+* [Day 04: Camp Cleanup ](day04/)
+* [Day 05: Supply Stacks ](day05/)
+* [Day 06: Tuning Trouble ](day06/)
+* [Day 07: No Space Left On Device ](day07/)
+* [Day 08: Treetop Tree House ](day08/)
+* [Day 09: Rope Bridge](day09/)
 * [Day 10: Cathode-Ray Tube](day10/)

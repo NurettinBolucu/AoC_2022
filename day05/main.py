@@ -41,9 +41,9 @@ def q2(fl, lines, stc):
 
 
 if __name__ == "__main__":
-    file = FileHelper("day5//input.txt")
+    file = FileHelper("day05//input.txt")
     glob_lines = file.get_lines()
     stack_1 = create_stack(glob_lines)
     stack_2 = deepcopy(stack_1)
-    print("Solution day1 : {}".format(q1(file, glob_lines, stack_1)))
-    print("Solution day2 : {}".format(q2(file, glob_lines, stack_2)))
+    print("Solution 1 : {}".format(q1(file, glob_lines, stack_1)))
+    print("Solution 2 : {}".format(q2(file, glob_lines, stack_2)))
