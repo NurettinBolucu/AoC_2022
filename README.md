@@ -1,4 +1,4 @@
-# Advent of Code 2021
+# Advent of Code 2022
 Advent of Code 2022 solutions implemented in Python
 
 
