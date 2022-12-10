@@ -12,3 +12,4 @@ You don't need a computer science background to participate - just a little prog
 * [Day 02: Rock Paper Scissors ](day2/)
 * [Day 03: Rucksack Reorganization ](day3/)
 * [Day 04: Camp Cleanup ](day4/)
+* [Day 05: Supply Stacks ](day5/)
