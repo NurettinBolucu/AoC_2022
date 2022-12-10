@@ -9,3 +9,4 @@ Advent of Code 2022 solutions implemented in Python
 You don't need a computer science background to participate - just a little programming knowledge and some problem solving skills will get you pretty far. Nor do you need a fancy computer; every problem has a solution that completes in at most 15 seconds on ten-year-old hardware.
 
 * [Day 01: Calorie Counting ](day1/)
+* [Day 02: Rock Paper Scissors ](day2/)
