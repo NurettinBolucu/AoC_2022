@@ -17,3 +17,4 @@ You don't need a computer science background to participate - just a little prog
 * [Day 07: No Space Left On Device ](day7/)
 * [Day 08: Treetop Tree House ](day8/)
 * [Day 09: Rope Bridge](day9/)
+* [Day 10: Cathode-Ray Tube](day10/)
