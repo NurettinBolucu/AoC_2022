@@ -19,3 +19,4 @@ You don't need a computer science background to participate - just a little prog
 * [Day 09: Rope Bridge](day09/)
 * [Day 10: Cathode-Ray Tube](day10/)
 * [Day 11: Monkey in the Middle](day11/)
+* [Day 12: Hill Climbing Algorithm](day12/)
