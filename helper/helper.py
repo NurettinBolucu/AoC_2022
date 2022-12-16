@@ -10,7 +10,7 @@ class FileHelper:
         return self.__file
 
     def get_lines(self):
-        return  self.__all_lines
+        return [line.replace('\n', '') for line in self.__all_lines]
 
     def get_lines_int(self):
         return [int(line) for line in self.__all_lines]
