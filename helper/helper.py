@@ -21,7 +21,7 @@ class FileHelper:
 
         # we skip seps[0] because that's the default separator
         for sep in seps[1:]:
-            txt = line.replace(sep, default_sep)
+            line = line.replace(sep, default_sep)
         return [i.strip() for i in line.split(default_sep)]
 
     def get_seperated_lines(self, seps):
